@@ -4089,10 +4089,10 @@ node-addon-api@^4.3.0:
   resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/node-addon-api/-/node-addon-api-4.3.0.tgz"
   integrity sha1-UqGgtHUZPgko6Y4EJqDRJUeCt38=
 
-node-forge@^1.3.1:
-  version "1.3.3"
-  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/node-forge/-/node-forge-1.3.3.tgz"
-  integrity sha1-CtgPYzOzoARegnrCC39zX5NxZ1E=
+node-forge@^1.4.0:
+  version "1.4.0"
+  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/node-forge/-/node-forge-1.4.0.tgz#1c7b7d8bdc2d078739f58287d589d903a11b2fc2"
+  integrity sha1-HHt9i9wtB4c59YKH1YnZA6EbL8I=
 
 node-html-markdown@^1.3.0:
   version "1.3.0"
@@ -4447,9 +4447,9 @@ path-scurry@^2.0.0:
     minipass "^7.1.2"
 
 path-to-regexp@^8.0.0:
-  version "8.2.0"
-  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/path-to-regexp/-/path-to-regexp-8.2.0.tgz"
-  integrity sha1-c5kMwp5Xo/8qDZFAlRVt9dt56LQ=
+  version "8.4.2"
+  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/path-to-regexp/-/path-to-regexp-8.4.2.tgz#795c420c4f7ca45c5b887366f622ee0c9852cccd"
+  integrity sha1-eVxCDE98pFxbiHNm9iLuDJhSzM0=
 
 path-type@^6.0.0:
   version "6.0.0"
@@ -4472,9 +4472,9 @@ picocolors@^1.1.1:
   integrity sha1-PTIa8+q5ObCDyPkpodEs2oHCa2s=
 
 picomatch@^2.0.4, picomatch@^2.2.1, picomatch@^2.3.1:
-  version "2.3.1"
-  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/picomatch/-/picomatch-2.3.1.tgz"
-  integrity sha1-O6ODNzNkbZ0+SZWUbBNlpn+wekI=
+  version "2.3.2"
+  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/picomatch/-/picomatch-2.3.2.tgz#5a942915e26b372dc0f0e6753149a16e6b1c5601"
+  integrity sha1-WpQpFeJrNy3A8OZ1MUmhbmscVgE=
 
 pkg-dir@^4.2.0:
   version "4.2.0"
