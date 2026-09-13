@@ -4521,9 +4521,9 @@ mute-stream@~0.0.4:
   integrity sha1-FjDEKyJR/4HiooPelqVJfqkuXg0=
 
 nanoid@^3.3.16:
-  version "3.3.16"
-  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/nanoid/-/nanoid-3.3.16.tgz#a04d8ec4b1f10009d2d533947aefe4293737816c"
-  integrity sha1-oE2OxLHxAAnS1TOUeu/kKTc3gWw=
+  version "3.3.18"
+  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/nanoid/-/nanoid-3.3.18.tgz#f66a2de1199ffde0fcf21c8a5f13106b1c081913"
+  integrity sha1-9mot4Rmf/eD88hyKXxMQaxwIGRM=
 
 napi-build-utils@^2.0.0:
   version "2.0.0"
